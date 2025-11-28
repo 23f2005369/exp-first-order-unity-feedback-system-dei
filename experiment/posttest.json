@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "What will be the flow of output of impulse response of 1st order system?",
+      "question": "1. What will be the flow of output of impulse response of 1st order system?",
       "answers": {
         "a": "System response will remain constant",
         "b": "System response will first increase exponentially and then decrease to its final value at t equal to infinity ",
@@ -13,7 +13,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "What will be the flow of output of step response of 1st order system?",
+      "question": "2. What will be the flow of output of step response of 1st order system?",
       "answers": {
         "a": "System response will remain constant",
         "b": "System response will first increase exponentially and then decrease to its final value at t equal to infinity ",
@@ -24,7 +24,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "What is the relationship between the coefficient of numerator and maximum amplitude of step response",
+      "question": "3. What is the relationship between the coefficient of numerator and maximum amplitude of step response?",
       "answers": {
         "a": "Increasing numerator coefficient value, maximum amplitude of step response decreases",
         "b": "Increasing numerator coefficient value, maximum amplitude of step response increases",
@@ -35,7 +35,7 @@
       "difficulty": "intermediate"
     },
     {
-            "question": "What is rising time of response/signal?",
+            "question": "4. What is rising time of response/signal?",
             "answers": {
                 "a": "Time taken by the system to reach from 10%-90% output state ",
                 "b": "Time taken by the system to reach it's final desired state",
@@ -50,7 +50,7 @@
         },
         {
 
-            "question": "What is settling Time",
+            "question": "5. What is settling Time?",
             "answers": {
                 "a": "Time taken by the system to reach at state within the specified error band",
                 "b": "Instant at which output of the desired system is within a +-5% limit of final state value",

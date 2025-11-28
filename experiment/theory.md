@@ -1,12 +1,12 @@
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=default'></script>
 
-<strong>Theory:</strong>A first order system is one in which highest power of ‘s’ in denominator if transfer function defines order of the system.
+<strong>Theory: </strong>A first order system is one in which highest power of ‘s’ in denominator if transfer function defines order of the system.
 					<br>For first order system,
 					$${\frac{C(s)}{R(s)}=\frac{1}{sT+1}}$$ <span style="float: right;">...... (1),</span><br>
 					$${C(s)=\frac{1}{sT+1}R(s)}$$
 					<ol>
 						<strong><li><em>For the unit-step input:</em></li></strong>
-						<br>R(t)=1,<br>R(s)=1/s <span style="float: right;">(a),</span><br>
+						<br>R(t)=1,<br>$$R(s)=frac{1}{s}$$  <span style="float: right;">(a),</span><br>
 						Since the Laplace transform of the unit step function is 1/s , substituting R(s)=1/s in equation (1),
 						$${C(s)=\frac{1}{sT+1} * \frac{1}{s}}$$ 
 						Substitute the value of R(s)<br>
