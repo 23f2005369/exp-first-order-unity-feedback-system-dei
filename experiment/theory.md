@@ -6,7 +6,7 @@
 					$${C(s)=\frac{1}{sT+1}R(s)}$$
 					<ol>
 						<strong><li><em>For the unit-step input:</em></li></strong>
-						<br>R(t)=1,<br>$$R(s)=frac{1}{s}$$  <span style="float: right;">(a),</span><br>
+						<br>R(t)=1,<br>$$R(s)=\frac{1}{s}$$ <span style="float: right;">(a),</span><br>
 						Since the Laplace transform of the unit step function is 1/s , substituting R(s)=1/s in equation (1),
 						$${C(s)=\frac{1}{sT+1} * \frac{1}{s}}$$ 
 						Substitute the value of R(s)<br>
